@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957826636803",
+    "project_id": "chat-eb27b",
+    "storage_bucket": "chat-eb27b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957826636803:android:bc6a1795fcf9f595bbc236",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_integrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t_pRNgK5D7UVJCzB2zwhY_yw74FaK-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
